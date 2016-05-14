@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "This is what's known as a 'test'"
+date:   2016-05-14 20:08:08 -0400
+categories: jekyll update
+---
+This is mildly 'fun'.
